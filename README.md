@@ -1,3 +1,5 @@
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://github.com/tejass06
+)
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif">
