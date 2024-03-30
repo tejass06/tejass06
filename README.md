@@ -1,5 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQEwkmAF4PQCiQ/profile-displaybackgroundimage-shrink_200_800/0/1606678801560?e=2147483647&v=beta&t=MGBV6TJsQFAT9HFYsIPtvQTg6yUoz9x6oGgvFBjJlug)](https://github.com/tejass06
-)
+
 
 
 <img align="right" alt="Coding" width="400" src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif">
